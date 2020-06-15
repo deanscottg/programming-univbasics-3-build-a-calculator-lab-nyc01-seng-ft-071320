@@ -30,6 +30,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  root = integer.
+  root = integer.sqrt(num)
+  puts root 
+  root
 
 end
